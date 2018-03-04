@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hp.calender112.MainActivity">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/date"
+        android:layout_width="324dp"
+        android:layout_height="67dp"
+        android:hint="Enter the sheduled date"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="76dp" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="216dp"
+        android:layout_height="67dp"
+        android:text="Submit"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="199dp" />
+
+</LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

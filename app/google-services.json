@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692468830164",
+    "firebase_url": "https://dates-f7da7.firebaseio.com",
+    "project_id": "dates-f7da7",
+    "storage_bucket": "dates-f7da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692468830164:android:39b4024993f2ca63",
+        "android_client_info": {
+          "package_name": "com.example.hp.calender112"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692468830164-aks45jkdrcdlva1vdnqaern9fl8i99em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.calender112",
+            "certificate_hash": "c706277df6e1a6bbc4710d4d6dcb7931254cf670"
+          }
+        },
+        {
+          "client_id": "692468830164-4e3ggvcga0ccfhtmjqhd2kku7hegm87l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWBy0tsmoY_zoGEK8gNxMQN3v95uZp-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692468830164-4e3ggvcga0ccfhtmjqhd2kku7hegm87l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
